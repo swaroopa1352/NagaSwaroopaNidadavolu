@@ -10,6 +10,6 @@
 
 💻 Comfortable with coding languages such as Python, SQL and R.
 
-📊 Worked with data processing visualization tools such as Tableau, Airflow, Celery, Snowflake, Google Analytics and PowerBI.
+📊 Worked with data processing and visualization tools such as Tableau, Airflow, Celery, Snowflake, Google Analytics and PowerBI.
 
 👯 Looking to collaborate on projects involving data analytics, data visualization.
